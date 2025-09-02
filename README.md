@@ -4,6 +4,7 @@
 🔭 Minoring in Software Engineering & Data Science</br>
 🧠 Rn just doing projects to learn more</br>
 👾 Working on my skills in Machine Learning and C++</br>
+🎮 Getting started on a project using C# and Unity</br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshaan-bahia) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshaan124@gmail.com) 
