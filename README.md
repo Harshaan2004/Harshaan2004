@@ -3,7 +3,7 @@
 ⚙️ Mechanical Engineering student at UCL</br>
 🔭 Minoring in Software Engineering & Data Science</br>
 🧠 Rn just doing projects to learn more</br>
-👾 Working on my skills in Machine Learning and C++</br>
+👾 Working on my skills in Machine Learning, Python, and C++</br>
 🎮 Getting started on a project using C++ and OpenGL</br>
 
 ## 🌐 Socials:
